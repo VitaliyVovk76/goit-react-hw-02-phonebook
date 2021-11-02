@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-import "./App.css";
 import Container from "./components/Container/Container";
 import ContactForm from "./components/ContactForm/ContactForm";
 import ContactList from "./components/ContactsList/ContactsList";
